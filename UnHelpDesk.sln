@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnHelpDesk", "UnHelpDesk\UnHelpDesk.csproj", "{DD983E81-32AD-46CF-B650-CAE00CF61F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD983E81-32AD-46CF-B650-CAE00CF61F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD983E81-32AD-46CF-B650-CAE00CF61F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD983E81-32AD-46CF-B650-CAE00CF61F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD983E81-32AD-46CF-B650-CAE00CF61F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56097F33-D28E-41B3-AFDB-9A1408C35E8D}
+	EndGlobalSection
+EndGlobal
